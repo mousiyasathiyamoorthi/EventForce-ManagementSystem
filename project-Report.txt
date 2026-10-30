@@ -1,0 +1,23 @@
+EventForce Management System - Project Report
+
+1. Objective:
+Event planners ku Client bookings, Vendor coordination, Venue reservations, Feedback collection ellam oru CRM la pannanum.
+
+2. Modules Created in Salesforce:
+- Client Object - Client Name, Phone, Email, Event Type
+- Vendor Object - Vendor Name, Service Type, Price, Availability
+- Venue Object - Venue Name, Location, Capacity, Price
+- Event Coordinator Object - Coordinator Name, Assigned Event, Status
+
+3. Features:
+- Client Onboarding
+- Vendor Management
+- Venue Booking
+- Event Execution
+- Feedback Collection
+- Cancellation Approval Process
+- Reminder Automation using Flows
+
+4. Demo Video: [https://drive.google.com/file/d/1gQDD8O8wbUADJIgxO2jjkD1lir0q-Xjh/view?usp=vids_web]
+5. Conclusion:
+EventForce system helps event planners to manage full event lifecycle in one place using Salesforce.
